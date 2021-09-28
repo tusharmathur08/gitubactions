@@ -8,7 +8,7 @@ on:
     - SERVICECREATE.md
 
 env:
-  AZURE_RESOURCE_GROUP: tusharhandsonlab              # set this to your Azure Resource group's name
+  AZURE_RESOURCE_GROUP: tusharhandsonlab             # set this to your Azure Resource group's name
   AZURE_STORAGE_ACCOUNT: tusharholstorageaccount      # set this to your Azure Storage account name for images
   AZURE_LOCATION: eastus                          # set this to your azure resource group location   
   AZURE_APP_PLAN: tusharnetcoreplan                    # set netcoreplan  

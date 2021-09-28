@@ -8,18 +8,18 @@ on:
     - readmesailjs.md
     
 env:
-  APPNAME: vijaysailjs
+  APPNAME: tusharsailjs
   APPLICATIONPATH: Application
-  HOSTINGPLAN: vijaysailjs
+  HOSTINGPLAN: tusharsailjs
   DOCKERFILEPATH: "Application"
   REGISTRYSKU: "Standard"
-  REGISTRYNAME: "vijaysailjsacr"
+  REGISTRYNAME: "tusharsailjsacr"
   REGISTRYLOCATION: "EAST US"
-  IMAGENAME: "vijaysailjs7"
-  RESOURCEGROUPNAME: vijaysailjs-rg
+  IMAGENAME: "tusharsailjs7"
+  RESOURCEGROUPNAME: tusharsailjs-rg
   LOCATION: East US
   APPINSIGHTSLOCATION: East US
-  SUBSCRIPTIONID: c5e95693-4d23-4d5c-ad8d-904f30699ecc
+  SUBSCRIPTIONID: f5162d40-a95b-401f-ac26-0e277302fe29
   SKU: S1 Standard
   NODE_VERSION: 16.x
 
